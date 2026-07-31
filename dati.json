@@ -1,5 +1,5 @@
 {
-  "generato_il": "2026-07-13 07:59",
+  "generato_il": "2026-07-31 12:18",
   "avvisi": [],
   "mesi": {
     "2025-06": {
@@ -1894,10 +1894,10 @@
         }
       ],
       "meta_ads": {
-        "spesa": 0,
-        "risultati": 0,
-        "roas": 0,
-        "cpa": 0
+        "spesa": 2002.92,
+        "risultati": 106,
+        "roas": 4.96,
+        "cpa": 18.9
       },
       "google_ads": {
         "spesa": 104.73,
@@ -2407,8 +2407,8 @@
         "canale": "Meta Ads",
         "revenue_totale": 117316.96,
         "ordini_totali": 1201.0,
-        "spesa_ads_totale": 10088.02,
-        "roas_totale": 11.63,
+        "spesa_ads_totale": 12090.94,
+        "roas_totale": 9.7,
         "tasso_riacquisto_pct": 18.0,
         "pct_multilinea": 18.2,
         "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Trattamento Magico e Unico"
@@ -3206,8 +3206,8 @@
         "revenue": 19086.13,
         "ordini": 203.0,
         "aov": 94.02,
-        "spesa_ads": 0.0,
-        "roas": ""
+        "spesa_ads": 2002.92,
+        "roas": 9.53
       },
       {
         "mese": "2026-07",
