@@ -1,5 +1,5 @@
 {
-  "generato_il": "2026-07-31 12:18",
+  "generato_il": "2026-07-31 12:57",
   "avvisi": [],
   "mesi": {
     "2025-06": {
@@ -20,19 +20,24 @@
           "ordini": 62
         },
         {
-          "canale": "Referral",
-          "revenue": 5447.96,
-          "ordini": 53
+          "canale": "Email Marketing",
+          "revenue": 5040.54,
+          "ordini": 51
         },
         {
           "canale": "Diretto",
-          "revenue": 4426.91,
-          "ordini": 41
+          "revenue": 4152.33,
+          "ordini": 38
         },
         {
           "canale": "Meta Ads",
           "revenue": 2392.68,
           "ordini": 23
+        },
+        {
+          "canale": "Referral",
+          "revenue": 682.0,
+          "ordini": 5
         },
         {
           "canale": "Google Merchant (organico)",
@@ -147,13 +152,18 @@
         },
         {
           "canale": "Diretto",
-          "revenue": 7599.69,
-          "ordini": 73
+          "revenue": 7559.79,
+          "ordini": 72
         },
         {
           "canale": "Referral",
-          "revenue": 3793.75,
-          "ordini": 36
+          "revenue": 1958.72,
+          "ordini": 20
+        },
+        {
+          "canale": "Email Marketing",
+          "revenue": 1874.93,
+          "ordini": 17
         },
         {
           "canale": "Altro",
@@ -280,13 +290,18 @@
         },
         {
           "canale": "Diretto",
-          "revenue": 3868.26,
-          "ordini": 38
+          "revenue": 3759.26,
+          "ordini": 37
+        },
+        {
+          "canale": "Email Marketing",
+          "revenue": 1961.8,
+          "ordini": 19
         },
         {
           "canale": "Referral",
-          "revenue": 2334.79,
-          "ordini": 23
+          "revenue": 481.99,
+          "ordini": 5
         }
       ],
       "top_prodotti": [
@@ -531,8 +546,8 @@
         },
         {
           "canale": "Diretto",
-          "revenue": 6392.9,
-          "ordini": 64
+          "revenue": 6280.58,
+          "ordini": 63
         },
         {
           "canale": "Social Organic",
@@ -541,8 +556,13 @@
         },
         {
           "canale": "Referral",
-          "revenue": 1716.66,
-          "ordini": 17
+          "revenue": 942.83,
+          "ordini": 10
+        },
+        {
+          "canale": "Email Marketing",
+          "revenue": 886.15,
+          "ordini": 8
         },
         {
           "canale": "Google Merchant (organico)",
@@ -672,14 +692,19 @@
           "ordini": 109
         },
         {
-          "canale": "Referral",
-          "revenue": 8027.87,
-          "ordini": 95
+          "canale": "Email Marketing",
+          "revenue": 6713.66,
+          "ordini": 79
         },
         {
           "canale": "Meta Ads",
           "revenue": 6171.56,
           "ordini": 69
+        },
+        {
+          "canale": "Referral",
+          "revenue": 1314.21,
+          "ordini": 16
         }
       ],
       "top_prodotti": [
@@ -809,9 +834,14 @@
           "ordini": 44
         },
         {
+          "canale": "Email Marketing",
+          "revenue": 2997.28,
+          "ordini": 33
+        },
+        {
           "canale": "Referral",
-          "revenue": 4569.86,
-          "ordini": 44
+          "revenue": 1572.58,
+          "ordini": 11
         },
         {
           "canale": "Google Merchant (organico)",
@@ -951,8 +981,13 @@
         },
         {
           "canale": "Referral",
-          "revenue": 1136.81,
-          "ordini": 12
+          "revenue": 704.8,
+          "ordini": 8
+        },
+        {
+          "canale": "Email Marketing",
+          "revenue": 432.01,
+          "ordini": 4
         },
         {
           "canale": "Google Merchant (organico)",
@@ -1087,9 +1122,14 @@
           "ordini": 58
         },
         {
+          "canale": "Email Marketing",
+          "revenue": 827.83,
+          "ordini": 9
+        },
+        {
           "canale": "Referral",
-          "revenue": 1632.45,
-          "ordini": 18
+          "revenue": 804.62,
+          "ordini": 9
         },
         {
           "canale": "Google Merchant (organico)",
@@ -1766,8 +1806,8 @@
       "canali": [
         {
           "canale": "Diretto",
-          "revenue": 30450.44,
-          "ordini": 306
+          "revenue": 29521.65,
+          "ordini": 297
         },
         {
           "canale": "Meta Ads",
@@ -1775,9 +1815,9 @@
           "ordini": 203
         },
         {
-          "canale": "Referral",
-          "revenue": 9062.76,
-          "ordini": 92
+          "canale": "Email Marketing",
+          "revenue": 9612.16,
+          "ordini": 97
         },
         {
           "canale": "Google Ads",
@@ -1803,6 +1843,11 @@
           "canale": "Social Organic",
           "revenue": 2119.81,
           "ordini": 24
+        },
+        {
+          "canale": "Referral",
+          "revenue": 379.39,
+          "ordini": 4
         }
       ],
       "top_prodotti": [
@@ -2365,13 +2410,23 @@
       },
       {
         "canale": "Diretto",
-        "revenue_totale": 114969.74,
-        "ordini_totali": 1105.0,
+        "revenue_totale": 113505.15,
+        "ordini_totali": 1090.0,
         "spesa_ads_totale": 0.0,
         "roas_totale": null,
-        "tasso_riacquisto_pct": 15.6,
-        "pct_multilinea": 19.8,
+        "tasso_riacquisto_pct": 15.3,
+        "pct_multilinea": 19.9,
         "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Shampoo Nutriente Unico"
+      },
+      {
+        "canale": "Email Marketing",
+        "revenue_totale": 30346.36,
+        "ordini_totali": 317.0,
+        "spesa_ads_totale": 0.0,
+        "roas_totale": null,
+        "tasso_riacquisto_pct": 25.2,
+        "pct_multilinea": 26.1,
+        "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Conditioner Fortificante Unico"
       },
       {
         "canale": "Google Ads",
@@ -2415,13 +2470,13 @@
       },
       {
         "canale": "Referral",
-        "revenue_totale": 41036.38,
-        "ordini_totali": 426.0,
+        "revenue_totale": 12154.61,
+        "ordini_totali": 124.0,
         "spesa_ads_totale": 0.0,
         "roas_totale": null,
-        "tasso_riacquisto_pct": 25.0,
-        "pct_multilinea": 24.1,
-        "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Conditioner Fortificante Unico"
+        "tasso_riacquisto_pct": 26.1,
+        "pct_multilinea": 17.4,
+        "top3_prodotti": "Crema Styling Unico | Trattamento Magico | Trattamento Magico e Unico"
       },
       {
         "canale": "Social Organic",
@@ -2438,9 +2493,18 @@
       {
         "mese": "2025-06",
         "canale": "Diretto",
-        "revenue": 4426.91,
-        "ordini": 41.0,
-        "aov": 107.97,
+        "revenue": 4152.33,
+        "ordini": 38.0,
+        "aov": 109.27,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2025-06",
+        "canale": "Email Marketing",
+        "revenue": 5040.54,
+        "ordini": 51.0,
+        "aov": 98.83,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2474,9 +2538,9 @@
       {
         "mese": "2025-06",
         "canale": "Referral",
-        "revenue": 5447.96,
-        "ordini": 53.0,
-        "aov": 102.79,
+        "revenue": 682.0,
+        "ordini": 5.0,
+        "aov": 136.4,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2501,9 +2565,18 @@
       {
         "mese": "2025-07",
         "canale": "Diretto",
-        "revenue": 7599.69,
-        "ordini": 73.0,
-        "aov": 104.11,
+        "revenue": 7559.79,
+        "ordini": 72.0,
+        "aov": 105.0,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2025-07",
+        "canale": "Email Marketing",
+        "revenue": 1874.93,
+        "ordini": 17.0,
+        "aov": 110.29,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2528,9 +2601,9 @@
       {
         "mese": "2025-07",
         "canale": "Referral",
-        "revenue": 3793.75,
-        "ordini": 36.0,
-        "aov": 105.38,
+        "revenue": 1958.72,
+        "ordini": 20.0,
+        "aov": 97.94,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2546,9 +2619,18 @@
       {
         "mese": "2025-08",
         "canale": "Diretto",
-        "revenue": 3868.26,
-        "ordini": 38.0,
-        "aov": 101.8,
+        "revenue": 3759.26,
+        "ordini": 37.0,
+        "aov": 101.6,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2025-08",
+        "canale": "Email Marketing",
+        "revenue": 1961.8,
+        "ordini": 19.0,
+        "aov": 103.25,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2573,9 +2655,9 @@
       {
         "mese": "2025-08",
         "canale": "Referral",
-        "revenue": 2334.79,
-        "ordini": 23.0,
-        "aov": 101.51,
+        "revenue": 481.99,
+        "ordini": 5.0,
+        "aov": 96.4,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2636,9 +2718,18 @@
       {
         "mese": "2025-10",
         "canale": "Diretto",
-        "revenue": 6392.9,
-        "ordini": 64.0,
-        "aov": 99.89,
+        "revenue": 6280.58,
+        "ordini": 63.0,
+        "aov": 99.69,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2025-10",
+        "canale": "Email Marketing",
+        "revenue": 886.15,
+        "ordini": 8.0,
+        "aov": 110.77,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2672,9 +2763,9 @@
       {
         "mese": "2025-10",
         "canale": "Referral",
-        "revenue": 1716.66,
-        "ordini": 17.0,
-        "aov": 100.98,
+        "revenue": 942.83,
+        "ordini": 10.0,
+        "aov": 94.28,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2693,6 +2784,15 @@
         "revenue": 10438.3,
         "ordini": 109.0,
         "aov": 95.76,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2025-11",
+        "canale": "Email Marketing",
+        "revenue": 6713.66,
+        "ordini": 79.0,
+        "aov": 84.98,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2717,9 +2817,9 @@
       {
         "mese": "2025-11",
         "canale": "Referral",
-        "revenue": 8027.87,
-        "ordini": 95.0,
-        "aov": 84.5,
+        "revenue": 1314.21,
+        "ordini": 16.0,
+        "aov": 82.14,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2738,6 +2838,15 @@
         "revenue": 9213.02,
         "ordini": 71.0,
         "aov": 129.76,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2025-12",
+        "canale": "Email Marketing",
+        "revenue": 2997.28,
+        "ordini": 33.0,
+        "aov": 90.83,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2771,9 +2880,9 @@
       {
         "mese": "2025-12",
         "canale": "Referral",
-        "revenue": 4569.86,
-        "ordini": 44.0,
-        "aov": 103.86,
+        "revenue": 1572.58,
+        "ordini": 11.0,
+        "aov": 142.96,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2792,6 +2901,15 @@
         "revenue": 6682.74,
         "ordini": 59.0,
         "aov": 113.27,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2026-01",
+        "canale": "Email Marketing",
+        "revenue": 432.01,
+        "ordini": 4.0,
+        "aov": 108.0,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2825,9 +2943,9 @@
       {
         "mese": "2026-01",
         "canale": "Referral",
-        "revenue": 1136.81,
-        "ordini": 12.0,
-        "aov": 94.73,
+        "revenue": 704.8,
+        "ordini": 8.0,
+        "aov": 88.1,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2846,6 +2964,15 @@
         "revenue": 7639.28,
         "ordini": 62.0,
         "aov": 123.21,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2026-02",
+        "canale": "Email Marketing",
+        "revenue": 827.83,
+        "ordini": 9.0,
+        "aov": 91.98,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -2879,9 +3006,9 @@
       {
         "mese": "2026-02",
         "canale": "Referral",
-        "revenue": 1632.45,
-        "ordini": 18.0,
-        "aov": 90.69,
+        "revenue": 804.62,
+        "ordini": 9.0,
+        "aov": 89.4,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -3167,9 +3294,18 @@
       {
         "mese": "2026-07",
         "canale": "Diretto",
-        "revenue": 30450.44,
-        "ordini": 306.0,
-        "aov": 99.51,
+        "revenue": 29521.65,
+        "ordini": 297.0,
+        "aov": 99.4,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2026-07",
+        "canale": "Email Marketing",
+        "revenue": 9612.16,
+        "ordini": 97.0,
+        "aov": 99.09,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -3212,9 +3348,9 @@
       {
         "mese": "2026-07",
         "canale": "Referral",
-        "revenue": 9062.76,
-        "ordini": 92.0,
-        "aov": 98.51,
+        "revenue": 379.39,
+        "ordini": 4.0,
+        "aov": 94.85,
         "spesa_ads": 0.0,
         "roas": ""
       },
