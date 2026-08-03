@@ -1,13 +1,13 @@
 {
-  "generato_il": "2026-08-03 09:48",
+  "generato_il": "2026-08-03 09:55",
   "avvisi": [],
   "mesi": {
     "2025-06": {
       "revenue": 25457.47,
       "ordini": 251,
       "aov": 101.42,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 245,
+      "clienti_attivi": 251,
       "canali": [
         {
           "canale": "Google Organic",
@@ -132,8 +132,8 @@
       "revenue": 60022.11,
       "ordini": 574,
       "aov": 104.57,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 555,
+      "clienti_attivi": 576,
       "canali": [
         {
           "canale": "Google Organic",
@@ -270,8 +270,8 @@
       "revenue": 27430.25,
       "ordini": 281,
       "aov": 97.62,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 260,
+      "clienti_attivi": 281,
       "canali": [
         {
           "canale": "Google Organic",
@@ -403,8 +403,8 @@
       "revenue": 28233.24,
       "ordini": 267,
       "aov": 105.74,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 239,
+      "clienti_attivi": 267,
       "canali": [
         {
           "canale": "Google Organic",
@@ -531,8 +531,8 @@
       "revenue": 32033.46,
       "ordini": 330,
       "aov": 97.07,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 277,
+      "clienti_attivi": 330,
       "canali": [
         {
           "canale": "Google Organic",
@@ -673,8 +673,8 @@
       "revenue": 65379.41,
       "ordini": 706,
       "aov": 92.61,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 583,
+      "clienti_attivi": 708,
       "canali": [
         {
           "canale": "Google Organic",
@@ -810,8 +810,8 @@
       "revenue": 40258.29,
       "ordini": 352,
       "aov": 114.37,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 301,
+      "clienti_attivi": 352,
       "canali": [
         {
           "canale": "Google Organic",
@@ -956,8 +956,8 @@
       "revenue": 36541.59,
       "ordini": 355,
       "aov": 102.93,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 280,
+      "clienti_attivi": 355,
       "canali": [
         {
           "canale": "Google Organic",
@@ -1098,8 +1098,8 @@
       "revenue": 42561.01,
       "ordini": 393,
       "aov": 108.3,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 306,
+      "clienti_attivi": 394,
       "canali": [
         {
           "canale": "Meta Ads",
@@ -1244,8 +1244,8 @@
       "revenue": 24444.96,
       "ordini": 257,
       "aov": 95.12,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 188,
+      "clienti_attivi": 257,
       "canali": [
         {
           "canale": "Google Organic",
@@ -1377,8 +1377,8 @@
       "revenue": 24673.97,
       "ordini": 245,
       "aov": 100.71,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 158,
+      "clienti_attivi": 246,
       "canali": [
         {
           "canale": "Google Organic",
@@ -1515,8 +1515,8 @@
       "revenue": 21742.08,
       "ordini": 230,
       "aov": 94.53,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 132,
+      "clienti_attivi": 233,
       "canali": [
         {
           "canale": "Diretto",
@@ -1658,8 +1658,8 @@
       "revenue": 21016.77,
       "ordini": 216,
       "aov": 97.3,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 132,
+      "clienti_attivi": 219,
       "canali": [
         {
           "canale": "Diretto",
@@ -1801,8 +1801,8 @@
       "revenue": 126722.09,
       "ordini": 1283,
       "aov": 98.77,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 982,
+      "clienti_attivi": 1287,
       "canali": [
         {
           "canale": "Diretto",
