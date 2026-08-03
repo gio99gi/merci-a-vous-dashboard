@@ -1,5 +1,5 @@
 {
-  "generato_il": "2026-08-03 09:55",
+  "generato_il": "2026-08-03 10:16",
   "avvisi": [],
   "mesi": {
     "2025-06": {
@@ -1835,14 +1835,19 @@
           "ordini": 58
         },
         {
-          "canale": "Altro",
-          "revenue": 5408.74,
-          "ordini": 54
-        },
-        {
           "canale": "Social Organic",
           "revenue": 4619.87,
           "ordini": 51
+        },
+        {
+          "canale": "Altro",
+          "revenue": 4603.43,
+          "ordini": 47
+        },
+        {
+          "canale": "Quiz",
+          "revenue": 805.31,
+          "ordini": 7
         },
         {
           "canale": "Referral",
@@ -2547,12 +2552,12 @@
     "canali_totale": [
       {
         "canale": "Altro",
-        "revenue_totale": 9122.77,
-        "ordini_totali": 91.0,
+        "revenue_totale": 8317.46,
+        "ordini_totali": 84.0,
         "spesa_ads_totale": 0.0,
         "roas_totale": null,
-        "tasso_riacquisto_pct": 11.5,
-        "pct_multilinea": 16.4,
+        "tasso_riacquisto_pct": 13.0,
+        "pct_multilinea": 14.8,
         "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Shampoo Nutriente Magico"
       },
       {
@@ -2614,6 +2619,16 @@
         "tasso_riacquisto_pct": 17.4,
         "pct_multilinea": 18.0,
         "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Trattamento Magico e Unico"
+      },
+      {
+        "canale": "Quiz",
+        "revenue_totale": 805.31,
+        "ordini_totali": 7.0,
+        "spesa_ads_totale": 0.0,
+        "roas_totale": null,
+        "tasso_riacquisto_pct": 0.0,
+        "pct_multilinea": 28.6,
+        "top3_prodotti": "Trattamento Magico | Shampoo Nutriente Unico | Conditioner Fortificante Unico"
       },
       {
         "canale": "Referral",
@@ -3432,9 +3447,9 @@
       {
         "mese": "2026-07",
         "canale": "Altro",
-        "revenue": 5408.74,
-        "ordini": 54.0,
-        "aov": 100.16,
+        "revenue": 4603.43,
+        "ordini": 47.0,
+        "aov": 97.95,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -3491,6 +3506,15 @@
         "aov": 93.97,
         "spesa_ads": 2002.92,
         "roas": 16.14
+      },
+      {
+        "mese": "2026-07",
+        "canale": "Quiz",
+        "revenue": 805.31,
+        "ordini": 7.0,
+        "aov": 115.04,
+        "spesa_ads": 0.0,
+        "roas": ""
       },
       {
         "mese": "2026-07",
