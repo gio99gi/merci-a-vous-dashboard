@@ -1,13 +1,13 @@
 {
-  "generato_il": "2026-08-31 07:23",
+  "generato_il": "2026-09-30 10:08",
   "avvisi": [],
   "mesi": {
     "2025-06": {
       "revenue": 25457.47,
       "ordini": 251,
       "aov": 101.42,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 245,
+      "clienti_attivi": 251,
       "canali": [
         {
           "canale": "Google Organic",
@@ -132,8 +132,8 @@
       "revenue": 60022.11,
       "ordini": 574,
       "aov": 104.57,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 555,
+      "clienti_attivi": 576,
       "canali": [
         {
           "canale": "Google Organic",
@@ -270,8 +270,8 @@
       "revenue": 27430.25,
       "ordini": 281,
       "aov": 97.62,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 260,
+      "clienti_attivi": 281,
       "canali": [
         {
           "canale": "Google Organic",
@@ -403,8 +403,8 @@
       "revenue": 28233.24,
       "ordini": 267,
       "aov": 105.74,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 239,
+      "clienti_attivi": 267,
       "canali": [
         {
           "canale": "Google Organic",
@@ -531,8 +531,8 @@
       "revenue": 32033.46,
       "ordini": 330,
       "aov": 97.07,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 277,
+      "clienti_attivi": 330,
       "canali": [
         {
           "canale": "Google Organic",
@@ -673,8 +673,8 @@
       "revenue": 65379.41,
       "ordini": 706,
       "aov": 92.61,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 583,
+      "clienti_attivi": 708,
       "canali": [
         {
           "canale": "Google Organic",
@@ -810,8 +810,8 @@
       "revenue": 40258.29,
       "ordini": 352,
       "aov": 114.37,
-      "nuovi_clienti": 0,
-      "clienti_attivi": 0,
+      "nuovi_clienti": 301,
+      "clienti_attivi": 352,
       "canali": [
         {
           "canale": "Google Organic",
@@ -1789,11 +1789,11 @@
         "cpa": 3.77
       },
       "google_ads": {
-        "spesa": 3755.39,
-        "click": 8229,
-        "conversioni": 103.48,
-        "roas": 2.81,
-        "cpa": 36.29
+        "spesa": 4353.1,
+        "click": 12096,
+        "conversioni": 154.75,
+        "roas": 2.43,
+        "cpa": 28.13
       },
       "funnel": null
     },
@@ -1944,51 +1944,51 @@
         }
       ],
       "meta_ads": {
-        "spesa": 2002.92,
-        "risultati": 106,
-        "roas": 4.96,
-        "cpa": 18.9
+        "spesa": 9331.35,
+        "risultati": 506,
+        "roas": 5.25,
+        "cpa": 18.44
       },
       "google_ads": {
-        "spesa": 104.73,
-        "click": 299,
-        "conversioni": 4.47,
-        "roas": 4.22,
-        "cpa": 23.43
+        "spesa": 3013.59,
+        "click": 13297,
+        "conversioni": 223.93,
+        "roas": 0.15,
+        "cpa": 13.46
       },
       "funnel": null
     },
     "2026-08": {
-      "revenue": 53560.04,
-      "ordini": 494,
-      "aov": 108.42,
-      "nuovi_clienti": 364,
-      "clienti_attivi": 494,
+      "revenue": 55882.73,
+      "ordini": 515,
+      "aov": 108.51,
+      "nuovi_clienti": 383,
+      "clienti_attivi": 515,
       "canali": [
         {
           "canale": "Diretto",
-          "revenue": 17842.9,
-          "ordini": 163
+          "revenue": 18451.37,
+          "ordini": 170
         },
         {
           "canale": "Meta Ads",
-          "revenue": 12526.86,
-          "ordini": 121
+          "revenue": 13222.48,
+          "ordini": 128
         },
         {
           "canale": "Google Ads",
-          "revenue": 10081.98,
-          "ordini": 94
+          "revenue": 10491.28,
+          "ordini": 97
         },
         {
           "canale": "Google Organic",
-          "revenue": 3659.39,
-          "ordini": 33
+          "revenue": 3824.09,
+          "ordini": 34
         },
         {
           "canale": "Social Organic",
-          "revenue": 3645.35,
-          "ordini": 32
+          "revenue": 3810.05,
+          "ordini": 33
         },
         {
           "canale": "Google Merchant (organico)",
@@ -1997,8 +1997,8 @@
         },
         {
           "canale": "Altro",
-          "revenue": 2196.19,
-          "ordini": 17
+          "revenue": 2476.09,
+          "ordini": 19
         },
         {
           "canale": "Email Marketing",
@@ -2015,26 +2015,26 @@
         {
           "prodotto": "Trattamento Magico",
           "linea": "Linea Magico",
-          "qty": 267,
-          "revenue": 20853.9
+          "qty": 279,
+          "revenue": 21812.7
         },
         {
           "prodotto": "Linea Magico: Trattamento Magico, Shampoo, Conditioner",
           "linea": "Linea Magico",
-          "qty": 38,
-          "revenue": 6258.6
+          "qty": 41,
+          "revenue": 6752.7
         },
         {
           "prodotto": "Trattamento Magico e Unico",
           "linea": "Promo",
-          "qty": 47,
-          "revenue": 4888.0
+          "qty": 49,
+          "revenue": 5096.0
         },
         {
           "prodotto": "Linea Aria: Shampoo, Conditioner, Leave-In Spray",
           "linea": "Linea Aria",
-          "qty": 33,
-          "revenue": 3594.56
+          "qty": 34,
+          "revenue": 3706.89
         },
         {
           "prodotto": "Linea Unico: Shampoo, Conditioner, Crema Styling",
@@ -2045,8 +2045,8 @@
         {
           "prodotto": "Crema Styling Unico",
           "linea": "Linea Unico",
-          "qty": 52,
-          "revenue": 2229.86
+          "qty": 55,
+          "revenue": 2369.84
         },
         {
           "prodotto": "Shampoo Nutriente Magico",
@@ -2057,14 +2057,14 @@
         {
           "prodotto": "Conditioner Riparatore Magico",
           "linea": "Linea Magico",
-          "qty": 37,
-          "revenue": 1571.5
+          "qty": 38,
+          "revenue": 1616.4
         },
         {
           "prodotto": "Shampoo Volumizzante Aria",
           "linea": "Linea Aria",
-          "qty": 34,
-          "revenue": 1336.31
+          "qty": 37,
+          "revenue": 1455.98
         },
         {
           "prodotto": "Shampoo Nutriente Unico",
@@ -2076,23 +2076,23 @@
       "revenue_per_linea": [
         {
           "linea": "Linea Magico",
-          "revenue": 30359.38
+          "revenue": 31857.18
         },
         {
           "linea": "Linea Unico",
-          "revenue": 7523.31
+          "revenue": 7663.29
         },
         {
           "linea": "Linea Aria",
-          "revenue": 6221.92
+          "revenue": 6498.82
         },
         {
           "linea": "Promo",
-          "revenue": 4888.0
+          "revenue": 5096.0
         },
         {
           "linea": "Gift Card",
-          "revenue": 3209.96
+          "revenue": 3409.95
         },
         {
           "linea": "Senza categoria",
@@ -2100,17 +2100,173 @@
         }
       ],
       "meta_ads": {
-        "spesa": 0,
-        "risultati": 0,
-        "roas": 0,
-        "cpa": 0
+        "spesa": 3524.06,
+        "risultati": 184,
+        "roas": 5.38,
+        "cpa": 19.15
       },
       "google_ads": {
-        "spesa": 0,
-        "click": 0,
-        "conversioni": 0,
-        "roas": 0,
-        "cpa": 0
+        "spesa": 3710.47,
+        "click": 21169,
+        "conversioni": 114.14,
+        "roas": 0.0,
+        "cpa": 32.51
+      },
+      "funnel": null
+    },
+    "2026-09": {
+      "revenue": 50501.14,
+      "ordini": 485,
+      "aov": 104.13,
+      "nuovi_clienti": 375,
+      "clienti_attivi": 489,
+      "canali": [
+        {
+          "canale": "Diretto",
+          "revenue": 16955.93,
+          "ordini": 160
+        },
+        {
+          "canale": "Meta Ads",
+          "revenue": 11636.21,
+          "ordini": 118
+        },
+        {
+          "canale": "Google Ads",
+          "revenue": 7677.59,
+          "ordini": 76
+        },
+        {
+          "canale": "Google Organic",
+          "revenue": 4638.4,
+          "ordini": 43
+        },
+        {
+          "canale": "Google Merchant (organico)",
+          "revenue": 4308.93,
+          "ordini": 38
+        },
+        {
+          "canale": "Altro",
+          "revenue": 2485.11,
+          "ordini": 24
+        },
+        {
+          "canale": "Social Organic",
+          "revenue": 2324.3,
+          "ordini": 21
+        },
+        {
+          "canale": "Referral",
+          "revenue": 394.77,
+          "ordini": 4
+        },
+        {
+          "canale": "Email Marketing",
+          "revenue": 79.9,
+          "ordini": 1
+        }
+      ],
+      "top_prodotti": [
+        {
+          "prodotto": "Trattamento Magico",
+          "linea": "Linea Magico",
+          "qty": 272,
+          "revenue": 21333.3
+        },
+        {
+          "prodotto": "Linea Magico: Trattamento Magico, Shampoo, Conditioner",
+          "linea": "Linea Magico",
+          "qty": 40,
+          "revenue": 6423.3
+        },
+        {
+          "prodotto": "Trattamento Magico e Unico",
+          "linea": "Promo",
+          "qty": 36,
+          "revenue": 3744.0
+        },
+        {
+          "prodotto": "Linea Unico: Shampoo, Conditioner, Crema Styling",
+          "linea": "Linea Unico",
+          "qty": 22,
+          "revenue": 2790.01
+        },
+        {
+          "prodotto": "Crema Styling Unico",
+          "linea": "Linea Unico",
+          "qty": 59,
+          "revenue": 2474.85
+        },
+        {
+          "prodotto": "Linea Aria: Shampoo, Conditioner, Leave-In Spray",
+          "linea": "Linea Aria",
+          "qty": 17,
+          "revenue": 1922.09
+        },
+        {
+          "prodotto": "Shampoo Nutriente Magico",
+          "linea": "Linea Magico",
+          "qty": 43,
+          "revenue": 1595.6
+        },
+        {
+          "prodotto": "Shampoo Volumizzante Aria",
+          "linea": "Linea Aria",
+          "qty": 32,
+          "revenue": 1232.6
+        },
+        {
+          "prodotto": "Conditioner Riparatore Magico",
+          "linea": "Linea Magico",
+          "qty": 25,
+          "revenue": 1077.6
+        },
+        {
+          "prodotto": "Shampoo Nutriente Unico",
+          "linea": "Linea Unico",
+          "qty": 28,
+          "revenue": 1065.05
+        }
+      ],
+      "revenue_per_linea": [
+        {
+          "linea": "Linea Magico",
+          "revenue": 30429.8
+        },
+        {
+          "linea": "Linea Unico",
+          "revenue": 7308.73
+        },
+        {
+          "linea": "Linea Aria",
+          "revenue": 4433.5
+        },
+        {
+          "linea": "Promo",
+          "revenue": 3744.0
+        },
+        {
+          "linea": "Gift Card",
+          "revenue": 3359.96
+        },
+        {
+          "linea": "Senza categoria",
+          "revenue": 36.0
+        }
+      ],
+      "meta_ads": {
+        "spesa": 896.33,
+        "risultati": 45,
+        "roas": 5.54,
+        "cpa": 19.92
+      },
+      "google_ads": {
+        "spesa": 2512.44,
+        "click": 4078,
+        "conversioni": 69.65,
+        "roas": 0.0,
+        "cpa": 36.07
       },
       "funnel": null
     }
@@ -2130,43 +2286,44 @@
     "2026-05",
     "2026-06",
     "2026-07",
-    "2026-08"
+    "2026-08",
+    "2026-09"
   ],
   "segmenti_clienti": [
     {
       "segmento": "Acquisto singolo attivo",
-      "clienti": 974,
-      "ltv_medio": 97,
+      "clienti": 1211,
+      "ltv_medio": 100,
       "freq_media": 1.0
     },
     {
       "segmento": "Clienti a rischio abbandono",
-      "clienti": 268,
-      "ltv_medio": 211,
+      "clienti": 293,
+      "ltv_medio": 212,
       "freq_media": 2.2
     },
     {
       "segmento": "Clienti abituali",
-      "clienti": 517,
-      "ltv_medio": 221,
+      "clienti": 539,
+      "ltv_medio": 225,
       "freq_media": 2.3
     },
     {
       "segmento": "Clienti fedeli top",
-      "clienti": 113,
-      "ltv_medio": 484,
-      "freq_media": 4.9
+      "clienti": 126,
+      "ltv_medio": 489,
+      "freq_media": 5.0
     },
     {
       "segmento": "Clienti inattivi",
-      "clienti": 2595,
+      "clienti": 2646,
       "ltv_medio": 104,
       "freq_media": 1.0
     },
     {
       "segmento": "Nuovi acquirenti",
-      "clienti": 358,
-      "ltv_medio": 110,
+      "clienti": 389,
+      "ltv_medio": 105,
       "freq_media": 1.0
     }
   ],
@@ -2174,166 +2331,166 @@
     "entry_level": [
       {
         "prodotto": "Trattamento Magico",
-        "volte_come_primo_acquisto": 1894,
-        "clienti_con_secondo_ordine": 198,
-        "giorni_medi_al_secondo": 105,
-        "tasso_conversione_2o_acquisto_pct": 10.5
+        "volte_come_primo_acquisto": 2130,
+        "clienti_con_secondo_ordine": 220,
+        "giorni_medi_al_secondo": 106,
+        "tasso_conversione_2o_acquisto_pct": 10.3
       },
       {
         "prodotto": "Crema Styling Unico",
-        "volte_come_primo_acquisto": 856,
-        "clienti_con_secondo_ordine": 262,
-        "giorni_medi_al_secondo": 127,
-        "tasso_conversione_2o_acquisto_pct": 30.6
+        "volte_come_primo_acquisto": 866,
+        "clienti_con_secondo_ordine": 274,
+        "giorni_medi_al_secondo": 134,
+        "tasso_conversione_2o_acquisto_pct": 31.6
       },
       {
         "prodotto": "Trattamento Magico e Unico",
-        "volte_come_primo_acquisto": 741,
-        "clienti_con_secondo_ordine": 136,
-        "giorni_medi_al_secondo": 130,
-        "tasso_conversione_2o_acquisto_pct": 18.4
+        "volte_come_primo_acquisto": 770,
+        "clienti_con_secondo_ordine": 140,
+        "giorni_medi_al_secondo": 131,
+        "tasso_conversione_2o_acquisto_pct": 18.2
       },
       {
         "prodotto": "Conditioner Riparatore Magico",
-        "volte_come_primo_acquisto": 237,
-        "clienti_con_secondo_ordine": 66,
-        "giorni_medi_al_secondo": 77,
-        "tasso_conversione_2o_acquisto_pct": 27.8
+        "volte_come_primo_acquisto": 243,
+        "clienti_con_secondo_ordine": 71,
+        "giorni_medi_al_secondo": 87,
+        "tasso_conversione_2o_acquisto_pct": 29.2
       },
       {
         "prodotto": "Conditioner Volumizzante Aria",
-        "volte_come_primo_acquisto": 172,
-        "clienti_con_secondo_ordine": 53,
-        "giorni_medi_al_secondo": 119,
-        "tasso_conversione_2o_acquisto_pct": 30.8
+        "volte_come_primo_acquisto": 176,
+        "clienti_con_secondo_ordine": 57,
+        "giorni_medi_al_secondo": 125,
+        "tasso_conversione_2o_acquisto_pct": 32.4
       },
       {
         "prodotto": "Conditioner Fortificante Unico",
-        "volte_come_primo_acquisto": 142,
-        "clienti_con_secondo_ordine": 62,
-        "giorni_medi_al_secondo": 111,
-        "tasso_conversione_2o_acquisto_pct": 43.7
+        "volte_come_primo_acquisto": 148,
+        "clienti_con_secondo_ordine": 64,
+        "giorni_medi_al_secondo": 110,
+        "tasso_conversione_2o_acquisto_pct": 43.2
       },
       {
         "prodotto": "Linea Unico: Shampoo, Conditioner, Crema Styling",
-        "volte_come_primo_acquisto": 133,
-        "clienti_con_secondo_ordine": 22,
-        "giorni_medi_al_secondo": 57,
-        "tasso_conversione_2o_acquisto_pct": 16.5
+        "volte_come_primo_acquisto": 146,
+        "clienti_con_secondo_ordine": 24,
+        "giorni_medi_al_secondo": 55,
+        "tasso_conversione_2o_acquisto_pct": 16.4
       },
       {
         "prodotto": "Linea Aria: Shampoo, Conditioner, Leave-In Spray",
-        "volte_come_primo_acquisto": 118,
-        "clienti_con_secondo_ordine": 23,
-        "giorni_medi_al_secondo": 75,
-        "tasso_conversione_2o_acquisto_pct": 19.5
+        "volte_come_primo_acquisto": 127,
+        "clienti_con_secondo_ordine": 26,
+        "giorni_medi_al_secondo": 82,
+        "tasso_conversione_2o_acquisto_pct": 20.5
       },
       {
         "prodotto": "GIFT 140 - Taglio e Piega",
-        "volte_come_primo_acquisto": 79,
+        "volte_come_primo_acquisto": 81,
         "clienti_con_secondo_ordine": 3,
         "giorni_medi_al_secondo": 20,
-        "tasso_conversione_2o_acquisto_pct": 3.8
+        "tasso_conversione_2o_acquisto_pct": 3.7
+      },
+      {
+        "prodotto": "Linea Magico: Trattamento Magico, Shampoo, Conditioner",
+        "volte_come_primo_acquisto": 73,
+        "clienti_con_secondo_ordine": 5,
+        "giorni_medi_al_secondo": 15,
+        "tasso_conversione_2o_acquisto_pct": 6.8
       },
       {
         "prodotto": "Leave-In Spray Volumizzante Aria",
-        "volte_come_primo_acquisto": 65,
+        "volte_come_primo_acquisto": 70,
         "clienti_con_secondo_ordine": 12,
         "giorni_medi_al_secondo": 67,
-        "tasso_conversione_2o_acquisto_pct": 18.5
+        "tasso_conversione_2o_acquisto_pct": 17.1
       },
       {
         "prodotto": "Shampoo Nutriente Magico",
-        "volte_come_primo_acquisto": 59,
-        "clienti_con_secondo_ordine": 27,
-        "giorni_medi_al_secondo": 80,
-        "tasso_conversione_2o_acquisto_pct": 45.8
+        "volte_come_primo_acquisto": 64,
+        "clienti_con_secondo_ordine": 28,
+        "giorni_medi_al_secondo": 82,
+        "tasso_conversione_2o_acquisto_pct": 43.8
       },
       {
         "prodotto": "GIFT 205 - Taglio, Colore di base e Piega",
-        "volte_come_primo_acquisto": 49,
+        "volte_come_primo_acquisto": 51,
         "clienti_con_secondo_ordine": 1,
         "giorni_medi_al_secondo": 144,
         "tasso_conversione_2o_acquisto_pct": 2.0
       },
       {
         "prodotto": "GIFT 100 - Trattamento Magico e Piega",
-        "volte_come_primo_acquisto": 43,
+        "volte_come_primo_acquisto": 47,
         "clienti_con_secondo_ordine": 2,
         "giorni_medi_al_secondo": 166,
-        "tasso_conversione_2o_acquisto_pct": 4.7
+        "tasso_conversione_2o_acquisto_pct": 4.3
       },
       {
         "prodotto": "GIFT 200 - Taglio, Trattamento Magico e Piega ",
-        "volte_come_primo_acquisto": 40,
+        "volte_come_primo_acquisto": 45,
         "clienti_con_secondo_ordine": 1,
         "giorni_medi_al_secondo": 127,
-        "tasso_conversione_2o_acquisto_pct": 2.5
-      },
-      {
-        "prodotto": "Shampoo Volumizzante Aria",
-        "volte_come_primo_acquisto": 38,
-        "clienti_con_secondo_ordine": 7,
-        "giorni_medi_al_secondo": 63,
-        "tasso_conversione_2o_acquisto_pct": 18.4
+        "tasso_conversione_2o_acquisto_pct": 2.2
       }
     ],
     "riacquisto_prodotto": [
       {
         "prodotto": "Crema Styling Unico",
-        "n_clienti_riacquirenti": 204,
-        "giorni_medi_riacquisto": 143,
-        "giorni_mediani_riacquisto": 126,
+        "n_clienti_riacquirenti": 215,
+        "giorni_medi_riacquisto": 147,
+        "giorni_mediani_riacquisto": 131,
         "giorni_min": 2,
         "giorni_max": 424
       },
       {
         "prodotto": "Shampoo Nutriente Unico",
-        "n_clienti_riacquirenti": 104,
-        "giorni_medi_riacquisto": 139,
+        "n_clienti_riacquirenti": 106,
+        "giorni_medi_riacquisto": 141,
         "giorni_mediani_riacquisto": 126,
         "giorni_min": 4,
         "giorni_max": 391
       },
       {
         "prodotto": "Trattamento Magico",
-        "n_clienti_riacquirenti": 93,
-        "giorni_medi_riacquisto": 164,
+        "n_clienti_riacquirenti": 106,
+        "giorni_medi_riacquisto": 168,
         "giorni_mediani_riacquisto": 146,
         "giorni_min": 3,
-        "giorni_max": 403
+        "giorni_max": 443
       },
       {
         "prodotto": "Conditioner Fortificante Unico",
-        "n_clienti_riacquirenti": 79,
-        "giorni_medi_riacquisto": 146,
-        "giorni_mediani_riacquisto": 126,
+        "n_clienti_riacquirenti": 83,
+        "giorni_medi_riacquisto": 149,
+        "giorni_mediani_riacquisto": 132,
         "giorni_min": 4,
         "giorni_max": 382
       },
       {
         "prodotto": "Shampoo Nutriente Magico",
-        "n_clienti_riacquirenti": 70,
-        "giorni_medi_riacquisto": 143,
+        "n_clienti_riacquirenti": 76,
+        "giorni_medi_riacquisto": 145,
         "giorni_mediani_riacquisto": 126,
         "giorni_min": 2,
-        "giorni_max": 349
+        "giorni_max": 404
       },
       {
         "prodotto": "Conditioner Riparatore Magico",
-        "n_clienti_riacquirenti": 54,
-        "giorni_medi_riacquisto": 138,
+        "n_clienti_riacquirenti": 60,
+        "giorni_medi_riacquisto": 139,
         "giorni_mediani_riacquisto": 124,
         "giorni_min": 5,
         "giorni_max": 312
       },
       {
         "prodotto": "Shampoo Volumizzante Aria",
-        "n_clienti_riacquirenti": 46,
-        "giorni_medi_riacquisto": 118,
-        "giorni_mediani_riacquisto": 99,
+        "n_clienti_riacquirenti": 50,
+        "giorni_medi_riacquisto": 128,
+        "giorni_mediani_riacquisto": 104,
         "giorni_min": 8,
-        "giorni_max": 252
+        "giorni_max": 335
       },
       {
         "prodotto": "Trattamento Magico e Unico",
@@ -2345,27 +2502,27 @@
       },
       {
         "prodotto": "Conditioner Volumizzante Aria",
-        "n_clienti_riacquirenti": 16,
-        "giorni_medi_riacquisto": 115,
-        "giorni_mediani_riacquisto": 91,
+        "n_clienti_riacquirenti": 18,
+        "giorni_medi_riacquisto": 127,
+        "giorni_mediani_riacquisto": 96,
         "giorni_min": 15,
-        "giorni_max": 242
-      },
-      {
-        "prodotto": "Linea Unico: Shampoo, Conditioner, Crema Styling",
-        "n_clienti_riacquirenti": 11,
-        "giorni_medi_riacquisto": 91,
-        "giorni_mediani_riacquisto": 97,
-        "giorni_min": 30,
-        "giorni_max": 179
+        "giorni_max": 265
       },
       {
         "prodotto": "Leave-In Spray Volumizzante Aria",
-        "n_clienti_riacquirenti": 10,
-        "giorni_medi_riacquisto": 100,
-        "giorni_mediani_riacquisto": 48,
+        "n_clienti_riacquirenti": 12,
+        "giorni_medi_riacquisto": 125,
+        "giorni_mediani_riacquisto": 127,
         "giorni_min": 6,
-        "giorni_max": 222
+        "giorni_max": 287
+      },
+      {
+        "prodotto": "Linea Unico: Shampoo, Conditioner, Crema Styling",
+        "n_clienti_riacquirenti": 12,
+        "giorni_medi_riacquisto": 93,
+        "giorni_mediani_riacquisto": 103,
+        "giorni_min": 30,
+        "giorni_max": 179
       },
       {
         "prodotto": "Linea Aria: Shampoo, Conditioner, Leave-In Spray",
@@ -2376,6 +2533,14 @@
         "giorni_max": 179
       },
       {
+        "prodotto": "GIFT 105 - Colore e Piega",
+        "n_clienti_riacquirenti": 1,
+        "giorni_medi_riacquisto": 82,
+        "giorni_mediani_riacquisto": 82,
+        "giorni_min": 82,
+        "giorni_max": 82
+      },
+      {
         "prodotto": "GIFT 200 - Taglio, Trattamento Magico e Piega ",
         "n_clienti_riacquirenti": 1,
         "giorni_medi_riacquisto": 127,
@@ -2384,12 +2549,12 @@
         "giorni_max": 127
       },
       {
-        "prodotto": "GIFT 105 - Colore e Piega",
+        "prodotto": "Linea Magico: Trattamento Magico, Shampoo, Conditioner",
         "n_clienti_riacquirenti": 1,
-        "giorni_medi_riacquisto": 82,
-        "giorni_mediani_riacquisto": 82,
-        "giorni_min": 82,
-        "giorni_max": 82
+        "giorni_medi_riacquisto": 38,
+        "giorni_mediani_riacquisto": 38,
+        "giorni_min": 38,
+        "giorni_max": 38
       }
     ],
     "multilinea_combinazioni": [
@@ -2397,17 +2562,17 @@
         "combo": "Linea Aria | Linea Magico | Linea Unico | Promo",
         "n_linee": 4,
         "n_clienti": 19,
-        "revenue_media_cliente": 499.49,
-        "ordini_medi_cliente": 3.9,
-        "revenue_totale": 9490.3
+        "revenue_media_cliente": 514.73,
+        "ordini_medi_cliente": 4.1,
+        "revenue_totale": 9779.8
       },
       {
         "combo": "Linea Aria | Linea Magico | Linea Unico | Senza categoria",
         "n_linee": 4,
-        "n_clienti": 1,
-        "revenue_media_cliente": 1024.37,
-        "ordini_medi_cliente": 4.0,
-        "revenue_totale": 1024.37
+        "n_clienti": 2,
+        "revenue_media_cliente": 698.11,
+        "ordini_medi_cliente": 3.0,
+        "revenue_totale": 1396.22
       },
       {
         "combo": "Linea Magico | Linea Unico | Promo | Senza categoria",
@@ -2420,42 +2585,50 @@
       {
         "combo": "Linea Aria | Linea Magico | Linea Unico",
         "n_linee": 3,
-        "n_clienti": 81,
-        "revenue_media_cliente": 337.79,
-        "ordini_medi_cliente": 2.8,
-        "revenue_totale": 27360.64
+        "n_clienti": 85,
+        "revenue_media_cliente": 352.28,
+        "ordini_medi_cliente": 3.0,
+        "revenue_totale": 29943.93
       },
       {
         "combo": "Linea Magico | Linea Unico | Promo",
         "n_linee": 3,
-        "n_clienti": 37,
-        "revenue_media_cliente": 382.77,
-        "ordini_medi_cliente": 3.0,
-        "revenue_totale": 14162.4
+        "n_clienti": 38,
+        "revenue_media_cliente": 400.14,
+        "ordini_medi_cliente": 3.1,
+        "revenue_totale": 15205.13
       },
       {
         "combo": "Linea Aria | Linea Unico | Promo",
         "n_linee": 3,
-        "n_clienti": 13,
-        "revenue_media_cliente": 395.0,
-        "ordini_medi_cliente": 3.2,
-        "revenue_totale": 5135.06
+        "n_clienti": 14,
+        "revenue_media_cliente": 395.97,
+        "ordini_medi_cliente": 3.1,
+        "revenue_totale": 5543.64
       },
       {
         "combo": "Linea Aria | Linea Magico | Promo",
         "n_linee": 3,
-        "n_clienti": 4,
-        "revenue_media_cliente": 265.01,
-        "ordini_medi_cliente": 1.8,
-        "revenue_totale": 1060.04
+        "n_clienti": 5,
+        "revenue_media_cliente": 257.77,
+        "ordini_medi_cliente": 1.6,
+        "revenue_totale": 1288.84
       },
       {
         "combo": "Gift Card | Linea Magico | Linea Unico",
         "n_linee": 3,
-        "n_clienti": 2,
-        "revenue_media_cliente": 729.12,
-        "ordini_medi_cliente": 6.0,
-        "revenue_totale": 1458.25
+        "n_clienti": 3,
+        "revenue_media_cliente": 672.81,
+        "ordini_medi_cliente": 5.7,
+        "revenue_totale": 2018.44
+      },
+      {
+        "combo": "Gift Card | Linea Aria | Promo",
+        "n_linee": 3,
+        "n_clienti": 1,
+        "revenue_media_cliente": 280.0,
+        "ordini_medi_cliente": 2.0,
+        "revenue_totale": 280.0
       },
       {
         "combo": "Gift Card | Linea Unico | Promo",
@@ -2492,143 +2665,135 @@
       {
         "combo": "Linea Magico | Linea Unico",
         "n_linee": 2,
-        "n_clienti": 319,
-        "revenue_media_cliente": 215.56,
+        "n_clienti": 353,
+        "revenue_media_cliente": 215.01,
         "ordini_medi_cliente": 1.9,
-        "revenue_totale": 68764.73
+        "revenue_totale": 75899.48
       },
       {
         "combo": "Linea Aria | Linea Magico",
         "n_linee": 2,
-        "n_clienti": 236,
-        "revenue_media_cliente": 200.81,
+        "n_clienti": 264,
+        "revenue_media_cliente": 201.73,
         "ordini_medi_cliente": 1.8,
-        "revenue_totale": 47391.34
+        "revenue_totale": 53256.08
       },
       {
         "combo": "Linea Unico | Promo",
         "n_linee": 2,
-        "n_clienti": 120,
-        "revenue_media_cliente": 211.27,
+        "n_clienti": 127,
+        "revenue_media_cliente": 213.84,
         "ordini_medi_cliente": 1.9,
-        "revenue_totale": 25352.26
+        "revenue_totale": 27157.87
       },
       {
         "combo": "Linea Aria | Linea Unico",
         "n_linee": 2,
         "n_clienti": 58,
-        "revenue_media_cliente": 202.49,
+        "revenue_media_cliente": 202.17,
         "ordini_medi_cliente": 1.9,
-        "revenue_totale": 11744.26
+        "revenue_totale": 11725.59
       },
       {
         "combo": "Linea Magico | Promo",
         "n_linee": 2,
-        "n_clienti": 46,
-        "revenue_media_cliente": 187.07,
+        "n_clienti": 48,
+        "revenue_media_cliente": 189.68,
         "ordini_medi_cliente": 1.5,
-        "revenue_totale": 8605.28
+        "revenue_totale": 9104.84
       },
       {
         "combo": "Linea Aria | Promo",
         "n_linee": 2,
         "n_clienti": 16,
-        "revenue_media_cliente": 193.74,
+        "revenue_media_cliente": 198.51,
         "ordini_medi_cliente": 1.6,
-        "revenue_totale": 3099.9
+        "revenue_totale": 3176.22
       },
       {
         "combo": "Gift Card | Linea Unico",
         "n_linee": 2,
         "n_clienti": 7,
-        "revenue_media_cliente": 304.57,
-        "ordini_medi_cliente": 1.7,
-        "revenue_totale": 2131.98
-      },
-      {
-        "combo": "Gift Card | Linea Magico",
-        "n_linee": 2,
-        "n_clienti": 4,
-        "revenue_media_cliente": 335.54,
-        "ordini_medi_cliente": 2.2,
-        "revenue_totale": 1342.14
+        "revenue_media_cliente": 311.71,
+        "ordini_medi_cliente": 1.9,
+        "revenue_totale": 2181.97
       }
     ],
     "multilinea_kpi": {
-      "totale_clienti": 4825,
-      "clienti_multilinea": 981,
-      "pct_multilinea": 20.3
+      "totale_clienti": 5204,
+      "clienti_multilinea": 1063,
+      "pct_multilinea": 20.4
     },
     "canali_totale": [
       {
         "canale": "Altro",
-        "revenue_totale": 9675.93,
-        "ordini_totali": 96.0,
+        "revenue_totale": 12440.94,
+        "ordini_totali": 122.0,
         "spesa_ads_totale": 0.0,
         "roas_totale": null,
-        "tasso_riacquisto_pct": 12.9,
-        "pct_multilinea": 14.5,
+        "tasso_riacquisto_pct": 10.7,
+        "pct_multilinea": 15.5,
         "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Shampoo Nutriente Magico"
       },
       {
         "canale": "Diretto",
-        "revenue_totale": 146920.9,
-        "ordini_totali": 1401.0,
+        "revenue_totale": 164485.3,
+        "ordini_totali": 1568.0,
         "spesa_ads_totale": 0.0,
         "roas_totale": null,
-        "tasso_riacquisto_pct": 15.0,
-        "pct_multilinea": 20.7,
-        "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Shampoo Nutriente Unico"
+        "tasso_riacquisto_pct": 14.7,
+        "pct_multilinea": 20.8,
+        "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Shampoo Nutriente Magico"
       },
       {
         "canale": "Email Marketing",
-        "revenue_totale": 31162.06,
-        "ordini_totali": 325.0,
+        "revenue_totale": 31241.96,
+        "ordini_totali": 326.0,
         "spesa_ads_totale": 0.0,
         "roas_totale": null,
-        "tasso_riacquisto_pct": 28.3,
-        "pct_multilinea": 27.4,
+        "tasso_riacquisto_pct": 29.8,
+        "pct_multilinea": 27.7,
         "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Conditioner Fortificante Unico"
       },
       {
         "canale": "Google Ads",
-        "revenue_totale": 26538.9,
-        "ordini_totali": 266.0,
-        "spesa_ads_totale": 5013.91,
-        "roas_totale": 5.29,
-        "tasso_riacquisto_pct": 7.1,
-        "pct_multilinea": 16.7,
-        "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Shampoo Nutriente Unico"
+        "revenue_totale": 34625.79,
+        "ordini_totali": 345.0,
+        "spesa_ads_totale": 14743.39,
+        "roas_totale": 2.35,
+        "tasso_riacquisto_pct": 6.5,
+        "pct_multilinea": 16.1,
+        "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Trattamento Magico e Unico"
       },
       {
         "canale": "Google Merchant (organico)",
-        "revenue_totale": 16327.29,
-        "ordini_totali": 159.0,
+        "revenue_totale": 20636.22,
+        "ordini_totali": 197.0,
         "spesa_ads_totale": 0.0,
         "roas_totale": null,
         "tasso_riacquisto_pct": 8.7,
-        "pct_multilinea": 14.4,
+        "pct_multilinea": 15.7,
         "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Shampoo Nutriente Magico"
       },
       {
         "canale": "Google Organic",
-        "revenue_totale": 169026.76,
-        "ordini_totali": 1635.0,
+        "revenue_totale": 173829.86,
+        "ordini_totali": 1679.0,
         "spesa_ads_totale": 0.0,
         "roas_totale": null,
-        "tasso_riacquisto_pct": 23.4,
-        "pct_multilinea": 22.2,
+        "tasso_riacquisto_pct": 24.1,
+        "pct_multilinea": 22.8,
         "top3_prodotti": "Crema Styling Unico | Trattamento Magico | Trattamento Magico e Unico"
       },
       {
         "canale": "Meta Ads",
-        "revenue_totale": 143083.74,
-        "ordini_totali": 1463.0,
-        "spesa_ads_totale": 12090.94,
-        "roas_totale": 11.83,
-        "tasso_riacquisto_pct": 17.7,
-        "pct_multilinea": 18.6,
-        "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Trattamento Magico e Unico"
+        "revenue_totale": 155415.57,
+        "ordini_totali": 1588.0,
+        "spesa_ads_totale": 23839.760000000002,
+        "roas_totale": 6.52,
+        "tasso_riacquisto_pct": 17.1,
+        "pct_multilinea": 18.5,
+        "top3_prodotti": "Trattamento Magico | Trattamento Magico e Unico | Crema Styling Unico"
       },
       {
         "canale": "Quiz",
@@ -2642,22 +2807,22 @@
       },
       {
         "canale": "Referral",
-        "revenue_totale": 12395.31,
-        "ordini_totali": 127.0,
+        "revenue_totale": 12790.08,
+        "ordini_totali": 131.0,
         "spesa_ads_totale": 0.0,
         "roas_totale": null,
-        "tasso_riacquisto_pct": 26.6,
-        "pct_multilinea": 19.1,
+        "tasso_riacquisto_pct": 26.8,
+        "pct_multilinea": 18.6,
         "top3_prodotti": "Crema Styling Unico | Trattamento Magico | Trattamento Magico e Unico"
       },
       {
         "canale": "Social Organic",
-        "revenue_totale": 74140.54,
-        "ordini_totali": 755.0,
+        "revenue_totale": 76629.54,
+        "ordini_totali": 777.0,
         "spesa_ads_totale": 0.0,
         "roas_totale": null,
-        "tasso_riacquisto_pct": 18.1,
-        "pct_multilinea": 19.3,
+        "tasso_riacquisto_pct": 18.6,
+        "pct_multilinea": 19.7,
         "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Shampoo Nutriente Unico"
       }
     ],
@@ -3406,8 +3571,8 @@
         "revenue": 2410.88,
         "ordini": 28.0,
         "aov": 86.1,
-        "spesa_ads": 3755.39,
-        "roas": 0.64
+        "spesa_ads": 4353.1,
+        "roas": 0.55
       },
       {
         "mese": "2026-06",
@@ -3487,8 +3652,8 @@
         "revenue": 13933.72,
         "ordini": 143.0,
         "aov": 97.44,
-        "spesa_ads": 104.73,
-        "roas": 133.04
+        "spesa_ads": 3013.59,
+        "roas": 4.62
       },
       {
         "mese": "2026-07",
@@ -3514,8 +3679,8 @@
         "revenue": 32326.05,
         "ordini": 344.0,
         "aov": 93.97,
-        "spesa_ads": 2002.92,
-        "roas": 16.14
+        "spesa_ads": 9331.35,
+        "roas": 3.46
       },
       {
         "mese": "2026-07",
@@ -3547,18 +3712,18 @@
       {
         "mese": "2026-08",
         "canale": "Altro",
-        "revenue": 2196.19,
-        "ordini": 17.0,
-        "aov": 129.19,
+        "revenue": 2476.09,
+        "ordini": 19.0,
+        "aov": 130.32,
         "spesa_ads": 0.0,
         "roas": ""
       },
       {
         "mese": "2026-08",
         "canale": "Diretto",
-        "revenue": 17842.9,
-        "ordini": 163.0,
-        "aov": 109.47,
+        "revenue": 18451.37,
+        "ordini": 170.0,
+        "aov": 108.54,
         "spesa_ads": 0.0,
         "roas": ""
       },
@@ -3574,11 +3739,11 @@
       {
         "mese": "2026-08",
         "canale": "Google Ads",
-        "revenue": 10081.98,
-        "ordini": 94.0,
-        "aov": 107.26,
-        "spesa_ads": 0.0,
-        "roas": ""
+        "revenue": 10491.28,
+        "ordini": 97.0,
+        "aov": 108.16,
+        "spesa_ads": 3710.47,
+        "roas": 2.83
       },
       {
         "mese": "2026-08",
@@ -3592,20 +3757,20 @@
       {
         "mese": "2026-08",
         "canale": "Google Organic",
-        "revenue": 3659.39,
-        "ordini": 33.0,
-        "aov": 110.89,
+        "revenue": 3824.09,
+        "ordini": 34.0,
+        "aov": 112.47,
         "spesa_ads": 0.0,
         "roas": ""
       },
       {
         "mese": "2026-08",
         "canale": "Meta Ads",
-        "revenue": 12526.86,
-        "ordini": 121.0,
-        "aov": 103.53,
-        "spesa_ads": 0.0,
-        "roas": ""
+        "revenue": 13222.48,
+        "ordini": 128.0,
+        "aov": 103.3,
+        "spesa_ads": 3524.06,
+        "roas": 3.75
       },
       {
         "mese": "2026-08",
@@ -3619,9 +3784,90 @@
       {
         "mese": "2026-08",
         "canale": "Social Organic",
-        "revenue": 3645.35,
-        "ordini": 32.0,
-        "aov": 113.92,
+        "revenue": 3810.05,
+        "ordini": 33.0,
+        "aov": 115.46,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2026-09",
+        "canale": "Altro",
+        "revenue": 2485.11,
+        "ordini": 24.0,
+        "aov": 103.55,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2026-09",
+        "canale": "Diretto",
+        "revenue": 16955.93,
+        "ordini": 160.0,
+        "aov": 105.97,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2026-09",
+        "canale": "Email Marketing",
+        "revenue": 79.9,
+        "ordini": 1.0,
+        "aov": 79.9,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2026-09",
+        "canale": "Google Ads",
+        "revenue": 7677.59,
+        "ordini": 76.0,
+        "aov": 101.02,
+        "spesa_ads": 2512.44,
+        "roas": 3.06
+      },
+      {
+        "mese": "2026-09",
+        "canale": "Google Merchant (organico)",
+        "revenue": 4308.93,
+        "ordini": 38.0,
+        "aov": 113.39,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2026-09",
+        "canale": "Google Organic",
+        "revenue": 4638.4,
+        "ordini": 43.0,
+        "aov": 107.87,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2026-09",
+        "canale": "Meta Ads",
+        "revenue": 11636.21,
+        "ordini": 118.0,
+        "aov": 98.61,
+        "spesa_ads": 896.33,
+        "roas": 12.98
+      },
+      {
+        "mese": "2026-09",
+        "canale": "Referral",
+        "revenue": 394.77,
+        "ordini": 4.0,
+        "aov": 98.69,
+        "spesa_ads": 0.0,
+        "roas": ""
+      },
+      {
+        "mese": "2026-09",
+        "canale": "Social Organic",
+        "revenue": 2324.3,
+        "ordini": 21.0,
+        "aov": 110.68,
         "spesa_ads": 0.0,
         "roas": ""
       }
