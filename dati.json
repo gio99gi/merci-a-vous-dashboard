@@ -1,5 +1,5 @@
 {
-  "generato_il": "2026-11-09 10:18",
+  "generato_il": "2026-11-09 10:27",
   "avvisi": [],
   "mesi": {
     "2025-06": {
@@ -2409,11 +2409,11 @@
         "cpa": 25.65
       },
       "google_ads": {
-        "spesa": 2840.5,
-        "click": 3919,
-        "conversioni": 62.72,
-        "roas": 2.49,
-        "cpa": 45.29
+        "spesa": 2962.97,
+        "click": 4100,
+        "conversioni": 70.35,
+        "roas": 2.62,
+        "cpa": 42.12
       },
       "funnel": null
     },
@@ -2557,11 +2557,11 @@
         "cpa": 17.39
       },
       "google_ads": {
-        "spesa": 0,
-        "click": 0,
-        "conversioni": 0,
-        "roas": 0,
-        "cpa": 0
+        "spesa": 805.35,
+        "click": 1086,
+        "conversioni": 10.97,
+        "roas": 1.31,
+        "cpa": 73.41
       },
       "funnel": null
     }
@@ -3056,8 +3056,8 @@
         "canale": "Google Ads",
         "revenue_totale": 42234.96,
         "ordini_totali": 423.0,
-        "spesa_ads_totale": 17991.05,
-        "roas_totale": 2.35,
+        "spesa_ads_totale": 18918.87,
+        "roas_totale": 2.23,
         "tasso_riacquisto_pct": 7.3,
         "pct_multilinea": 16.5,
         "top3_prodotti": "Trattamento Magico | Crema Styling Unico | Shampoo Nutriente Magico"
@@ -4192,8 +4192,8 @@
         "revenue": 5751.92,
         "ordini": 59.0,
         "aov": 97.49,
-        "spesa_ads": 2840.5,
-        "roas": 2.02
+        "spesa_ads": 2962.97,
+        "roas": 1.94
       },
       {
         "mese": "2026-10",
@@ -4273,8 +4273,8 @@
         "revenue": 1857.25,
         "ordini": 19.0,
         "aov": 97.75,
-        "spesa_ads": 0.0,
-        "roas": ""
+        "spesa_ads": 805.35,
+        "roas": 2.31
       },
       {
         "mese": "2026-11",
